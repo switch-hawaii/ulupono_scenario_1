@@ -276,9 +276,19 @@
             3.5
         ],
         [
+            2019,
+            "LargePV",
+            0.62375
+        ],
+        [
             2020,
             "LargePV",
-            4.99
+            3.1187500000000004
+        ],
+        [
+            2021,
+            "LargePV",
+            1.2475
         ],
         [
             2022,
@@ -673,26 +683,26 @@
             "CentralTrackingPV",
             "CentralFixedPV"
         ],
+        "IC_Schofield": [
+            "IC_Schofield"
+        ],
         "IC_Barge": [
             "IC_Barge"
-        ],
-        "OffshoreWind": [
-            "OffshoreWind"
         ],
         "IC_MCBH": [
             "IC_MCBH"
         ],
-        "Battery_Bulk": [
-            "Battery_Bulk"
-        ],
         "DistBattery": [
             "DistBattery"
         ],
-        "IC_Schofield": [
-            "IC_Schofield"
+        "Battery_Bulk": [
+            "Battery_Bulk"
         ],
         "OnshoreWind": [
             "OnshoreWind"
+        ],
+        "OffshoreWind": [
+            "OffshoreWind"
         ]
     },
     "tech_tech_group": {
@@ -701,12 +711,12 @@
         "FlatDistPV": "DistPV",
         "CentralTrackingPV": "LargePV",
         "CentralFixedPV": "LargePV",
-        "IC_Barge": "IC_Barge",
-        "OffshoreWind": "OffshoreWind",
-        "IC_MCBH": "IC_MCBH",
-        "Battery_Bulk": "Battery_Bulk",
-        "DistBattery": "DistBattery",
         "IC_Schofield": "IC_Schofield",
-        "OnshoreWind": "OnshoreWind"
+        "IC_Barge": "IC_Barge",
+        "IC_MCBH": "IC_MCBH",
+        "DistBattery": "DistBattery",
+        "Battery_Bulk": "Battery_Bulk",
+        "OnshoreWind": "OnshoreWind",
+        "OffshoreWind": "OffshoreWind"
     }
 }
